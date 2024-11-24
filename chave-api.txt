@@ -1,5 +1,1 @@
-AIzaSyCCJF3tYRKlFSAjENDH-FwensCNr6-YXfk
 
-Login mongo: joserobertogirottojunior Senha: IMX7ZR868Ufny7jo
-
-mongodb+srv://joserobertogirottojunior:IMX7ZR868Ufny7jo@cluster0.23wnl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
